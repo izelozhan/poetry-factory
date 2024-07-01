@@ -14,3 +14,7 @@ npm run dev
 ```
 
 
+
+
+https://github.com/izelozhan/poetry-factory/assets/89089237/82b48101-bbd8-474a-b4cd-4523a22e57fa
+
