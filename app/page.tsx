@@ -150,7 +150,7 @@ export default function Home() {
                     onChange={(e) =>
                       setState((curr) => ({ ...curr, prompt: e.target.value }))
                     }
-                    className=" w-full p-2 h-18  rounded-xl border  border-goldfish gap-2.5 hover:border-goldfish focus:border-goldfish active:border-goldfish  text-text-dark outline-none tracking-widest"
+                    className="font-roboto_flex w-full p-2 h-18  rounded-xl border  border-goldfish gap-2.5 hover:border-goldfish focus:border-goldfish active:border-goldfish  text-text-dark outline-none tracking-widest"
                   ></textarea>
                 </Card>
                 <button
