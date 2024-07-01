@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex items-center">
           <a
             className="cursor-pointer hover:scale-105 "
-            href="https://github.com/weaviate/healthsearch-demo"
+            href="https://github.com/izelozhan/poetry-factory"
             target="_blank"
           >
             <FaGithub className="w-10 h-10  cursor-pointer" />
